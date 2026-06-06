@@ -11,10 +11,10 @@ const config = {
     v4: true,
   },
 
-  url: 'https://YOUR_USERNAME.github.io',
+  url: 'https://001bibhu.github.io',
   baseUrl: '/my-docs-site/',
 
-  organizationName: 'YOUR_USERNAME',
+  organizationName: '001bibhu',
   projectName: 'my-docs-site',
 
   onBrokenLinks: 'throw',
