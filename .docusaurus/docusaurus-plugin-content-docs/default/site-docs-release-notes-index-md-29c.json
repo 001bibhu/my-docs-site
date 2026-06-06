@@ -1,0 +1,22 @@
+{
+  "id": "release-notes/release-notes",
+  "title": "Release Notes",
+  "description": "Track ProductHelp AI updates and changes here.",
+  "source": "@site/docs/release-notes/index.md",
+  "sourceDirName": "release-notes",
+  "slug": "/release-notes/",
+  "permalink": "/my-docs-site/docs/release-notes/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "release-notes",
+    "title": "Release Notes"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Setup and Integration",
+    "permalink": "/my-docs-site/docs/installation-guide/setup"
+  }
+}

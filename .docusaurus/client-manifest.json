@@ -1,0 +1,383 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "62": [
+      "62"
+    ],
+    "92": [
+      "314",
+      "92"
+    ],
+    "314": [
+      "92",
+      "314"
+    ],
+    "498": [
+      "852",
+      "498"
+    ],
+    "528": [
+      "106",
+      "14",
+      "182",
+      "528"
+    ],
+    "693": [
+      "693"
+    ],
+    "852": [
+      "498",
+      "852"
+    ],
+    "17896441": [
+      "14",
+      "528",
+      "106"
+    ],
+    "main": [
+      "14",
+      "783",
+      "889"
+    ],
+    "runtime~main": [
+      "14",
+      "889",
+      "783"
+    ],
+    "02195bad": [
+      "654"
+    ],
+    "05ae12f1": [
+      "355"
+    ],
+    "0a799d0e": [
+      "209"
+    ],
+    "138e0e15": [
+      "234"
+    ],
+    "1a4e3797": [
+      "14",
+      "847"
+    ],
+    "1f391b9e": [
+      "14",
+      "528",
+      "182"
+    ],
+    "2450005c": [
+      "199"
+    ],
+    "29cf976d": [
+      "86"
+    ],
+    "4c678320": [
+      "590"
+    ],
+    "5e95c892": [
+      "668"
+    ],
+    "85805df7": [
+      "213"
+    ],
+    "a7456010": [
+      "56"
+    ],
+    "a7bd4aaa": [
+      "575"
+    ],
+    "a94703ab": [
+      "14",
+      "785"
+    ],
+    "aba21aa0": [
+      "747"
+    ],
+    "bd64185c": [
+      "189"
+    ],
+    "c4f5d8e4": [
+      "14",
+      "823"
+    ],
+    "c77cfec9": [
+      "713"
+    ],
+    "styles": [
+      "106",
+      "182",
+      "528",
+      "783",
+      "785",
+      "823",
+      "847",
+      "889",
+      "14"
+    ]
+  },
+  "assets": {
+    "14": {
+      "css": [
+        {
+          "file": "assets/css/styles.01c76be7.css",
+          "hash": "c34d5c1532e7b35a",
+          "publicPath": "/my-docs-site/assets/css/styles.01c76be7.css"
+        }
+      ]
+    },
+    "56": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.9fd0f70d.js",
+          "hash": "04eb3d45feff9842",
+          "publicPath": "/my-docs-site/assets/js/a7456010.9fd0f70d.js"
+        }
+      ]
+    },
+    "62": {
+      "js": [
+        {
+          "file": "assets/js/62.1713d126.js",
+          "hash": "da8d49ca341c9dc3",
+          "publicPath": "/my-docs-site/assets/js/62.1713d126.js"
+        }
+      ]
+    },
+    "86": {
+      "js": [
+        {
+          "file": "assets/js/29cf976d.b2d8728f.js",
+          "hash": "c1a07958ad0b39e2",
+          "publicPath": "/my-docs-site/assets/js/29cf976d.b2d8728f.js"
+        }
+      ]
+    },
+    "92": {
+      "js": [
+        {
+          "file": "assets/js/92.63732972.js",
+          "hash": "841af68f1211c273",
+          "publicPath": "/my-docs-site/assets/js/92.63732972.js"
+        }
+      ]
+    },
+    "106": {
+      "js": [
+        {
+          "file": "assets/js/17896441.b3beae8c.js",
+          "hash": "fb128db2cd0121b5",
+          "publicPath": "/my-docs-site/assets/js/17896441.b3beae8c.js"
+        }
+      ]
+    },
+    "182": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.638d6f81.js",
+          "hash": "a65377d84a61bfec",
+          "publicPath": "/my-docs-site/assets/js/1f391b9e.638d6f81.js"
+        }
+      ]
+    },
+    "189": {
+      "js": [
+        {
+          "file": "assets/js/bd64185c.5270fc58.js",
+          "hash": "ea69186ad67f6b0c",
+          "publicPath": "/my-docs-site/assets/js/bd64185c.5270fc58.js"
+        }
+      ]
+    },
+    "199": {
+      "js": [
+        {
+          "file": "assets/js/2450005c.6c8d7402.js",
+          "hash": "2df88a73d5689d52",
+          "publicPath": "/my-docs-site/assets/js/2450005c.6c8d7402.js"
+        }
+      ]
+    },
+    "209": {
+      "js": [
+        {
+          "file": "assets/js/0a799d0e.4485c187.js",
+          "hash": "9d0bc3b4bfe2532b",
+          "publicPath": "/my-docs-site/assets/js/0a799d0e.4485c187.js"
+        }
+      ]
+    },
+    "213": {
+      "js": [
+        {
+          "file": "assets/js/85805df7.ed201a7a.js",
+          "hash": "33d7d9ebc370ba5e",
+          "publicPath": "/my-docs-site/assets/js/85805df7.ed201a7a.js"
+        }
+      ]
+    },
+    "234": {
+      "js": [
+        {
+          "file": "assets/js/138e0e15.7385e35e.js",
+          "hash": "686c863c424cb280",
+          "publicPath": "/my-docs-site/assets/js/138e0e15.7385e35e.js"
+        }
+      ]
+    },
+    "314": {
+      "js": [
+        {
+          "file": "assets/js/314.4f365248.js",
+          "hash": "37b7b468a31ff416",
+          "publicPath": "/my-docs-site/assets/js/314.4f365248.js"
+        }
+      ]
+    },
+    "355": {
+      "js": [
+        {
+          "file": "assets/js/05ae12f1.c3a4046b.js",
+          "hash": "31562c355eec2194",
+          "publicPath": "/my-docs-site/assets/js/05ae12f1.c3a4046b.js"
+        }
+      ]
+    },
+    "498": {
+      "js": [
+        {
+          "file": "assets/js/498.5ddcaa18.js",
+          "hash": "5b1531933251136a",
+          "publicPath": "/my-docs-site/assets/js/498.5ddcaa18.js"
+        }
+      ]
+    },
+    "528": {
+      "js": [
+        {
+          "file": "assets/js/528.315c2a5c.js",
+          "hash": "11ab411aad921684",
+          "publicPath": "/my-docs-site/assets/js/528.315c2a5c.js"
+        }
+      ]
+    },
+    "575": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.1be9e875.js",
+          "hash": "8260d5d74658526f",
+          "publicPath": "/my-docs-site/assets/js/a7bd4aaa.1be9e875.js"
+        }
+      ]
+    },
+    "590": {
+      "js": [
+        {
+          "file": "assets/js/4c678320.c259fcd6.js",
+          "hash": "cd35d27e9b5539b5",
+          "publicPath": "/my-docs-site/assets/js/4c678320.c259fcd6.js"
+        }
+      ]
+    },
+    "654": {
+      "js": [
+        {
+          "file": "assets/js/02195bad.c1d372da.js",
+          "hash": "d956f82b2d4ca46e",
+          "publicPath": "/my-docs-site/assets/js/02195bad.c1d372da.js"
+        }
+      ]
+    },
+    "668": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.7749f9d6.js",
+          "hash": "488f7ae4b8b3f5d7",
+          "publicPath": "/my-docs-site/assets/js/5e95c892.7749f9d6.js"
+        }
+      ]
+    },
+    "693": {
+      "js": [
+        {
+          "file": "assets/js/693.0bcf83be.js",
+          "hash": "0994fd3b0d2d23a7",
+          "publicPath": "/my-docs-site/assets/js/693.0bcf83be.js"
+        }
+      ]
+    },
+    "713": {
+      "js": [
+        {
+          "file": "assets/js/c77cfec9.09d05426.js",
+          "hash": "507496028f378e92",
+          "publicPath": "/my-docs-site/assets/js/c77cfec9.09d05426.js"
+        }
+      ]
+    },
+    "747": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.ff7ddb4d.js",
+          "hash": "05bcadb10a5e09c4",
+          "publicPath": "/my-docs-site/assets/js/aba21aa0.ff7ddb4d.js"
+        }
+      ]
+    },
+    "783": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.89e4bdbb.js",
+          "hash": "7ea3b1629987e39d",
+          "publicPath": "/my-docs-site/assets/js/runtime~main.89e4bdbb.js"
+        }
+      ]
+    },
+    "785": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.c3ee3cd9.js",
+          "hash": "80b906290df01e5b",
+          "publicPath": "/my-docs-site/assets/js/a94703ab.c3ee3cd9.js"
+        }
+      ]
+    },
+    "823": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.c53b494c.js",
+          "hash": "98ac24ab3bf266b4",
+          "publicPath": "/my-docs-site/assets/js/c4f5d8e4.c53b494c.js"
+        }
+      ]
+    },
+    "847": {
+      "js": [
+        {
+          "file": "assets/js/1a4e3797.75abb309.js",
+          "hash": "8cf65115d4839274",
+          "publicPath": "/my-docs-site/assets/js/1a4e3797.75abb309.js"
+        }
+      ]
+    },
+    "852": {
+      "js": [
+        {
+          "file": "assets/js/852.552169ab.js",
+          "hash": "cbdfbd28c383e6fe",
+          "publicPath": "/my-docs-site/assets/js/852.552169ab.js"
+        }
+      ]
+    },
+    "889": {
+      "js": [
+        {
+          "file": "assets/js/main.12af9420.js",
+          "hash": "a3338b9d220ee7ca",
+          "publicPath": "/my-docs-site/assets/js/main.12af9420.js"
+        }
+      ]
+    }
+  }
+}

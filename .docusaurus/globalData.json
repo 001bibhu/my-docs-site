@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/my-docs-site/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/my-docs-site/docs",
+          "mainDocId": "user-guide/user-guide",
+          "docs": [
+            {
+              "id": "installation-guide/installation-guide",
+              "path": "/my-docs-site/docs/installation-guide/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "installation-guide/setup",
+              "path": "/my-docs-site/docs/installation-guide/setup",
+              "sidebar": "docs"
+            },
+            {
+              "id": "release-notes/release-notes",
+              "path": "/my-docs-site/docs/release-notes/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "user-guide/actions",
+              "path": "/my-docs-site/docs/user-guide/actions",
+              "sidebar": "docs"
+            },
+            {
+              "id": "user-guide/dashboard",
+              "path": "/my-docs-site/docs/user-guide/dashboard",
+              "sidebar": "docs"
+            },
+            {
+              "id": "user-guide/overview",
+              "path": "/my-docs-site/docs/user-guide/overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "user-guide/user-guide",
+              "path": "/my-docs-site/docs/user-guide/",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/my-docs-site/docs/user-guide/",
+                "label": "user-guide/user-guide"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

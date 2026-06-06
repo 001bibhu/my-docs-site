@@ -1,0 +1,26 @@
+{
+  "id": "installation-guide/setup",
+  "title": "Setup and Integration",
+  "description": "Follow these steps to start using ProductHelp AI.",
+  "source": "@site/docs/installation-guide/setup.md",
+  "sourceDirName": "installation-guide",
+  "slug": "/installation-guide/setup",
+  "permalink": "/my-docs-site/docs/installation-guide/setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "setup",
+    "title": "Setup and Integration"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Installation Guide",
+    "permalink": "/my-docs-site/docs/installation-guide/"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/my-docs-site/docs/release-notes/"
+  }
+}
