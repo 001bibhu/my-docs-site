@@ -11,11 +11,11 @@ const config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://YOUR_USERNAME.github.io',
+  baseUrl: '/my-docs-site/',
 
-  organizationName: 'producthelp-ai',
-  projectName: 'producthelp-ai-docs',
+  organizationName: 'YOUR_USERNAME',
+  projectName: 'my-docs-site',
 
   onBrokenLinks: 'throw',
 
